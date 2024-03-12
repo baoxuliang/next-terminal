@@ -61,7 +61,7 @@ https://next.typesafe.cn/ 账号：test  密码：test
 
 ## 安全问题
 
-如果您在使用过程中发现了安全问题，请发送邮件至 helloworld1024@foxmail.com 联系我，谢谢。
+如果您在使用过程中发现了安全问题，请发送邮件至 768473471@qq.com 联系我，谢谢。
 
 ## License 
 
